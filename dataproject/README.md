@@ -1,6 +1,7 @@
 # Data analysis project
 
 Our project is titled **Do developed countries manage plastic waste better?**. 
+
 Mismanaged plastic waste is, by ``ourworldindata.org``, defined as "plastic that is either **littered** or **inadequately disposed**". Inadequately disposed waste is not formally managed and it includes disposal in dumps or uncontrolled landfills, where it cannot be fully contained. This waste then might eventually enter the oceans trough water streams, wastewater outflows, or it can be transported by wind.
 
 GDP is one of the indicators of economic activity and it is considered as "world's most powerful statistical indicator of national development and progress". The main objective of this project is to show whether more developed countries can manage plastic waste better than developing countries. In other words, this project focuses on answering these questions:
