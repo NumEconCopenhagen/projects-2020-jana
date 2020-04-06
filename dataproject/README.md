@@ -4,7 +4,7 @@ Our project is titled **PROJECT TITLE** and is about EXPLAIN.
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
-This **loades two datasets**:
+This **loades six datasets**:
 
 1. INDKP101.xlsx downloaded from statistikbanekn.dk/INDKP101
 1. RAS200.xlsx downloaded from statistikbanekn.dk/RAS200
