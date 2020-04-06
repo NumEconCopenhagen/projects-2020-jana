@@ -6,7 +6,7 @@ The **results** of the project can be seen from running [dataproject.ipynb](data
 
 This **loades six datasets**:
 
-1. per-capita-plastic-waste-vs-gdp-per-capita.csv downloaded from ourworldindata.org/plastic-pollution
+1. [per-capita-plastic-waste-vs-gdp-per-capita.csv](per-capita-plastic-waste-vs-gdp-per-capita.csv) downloaded from ourworldindata.org/plastic-pollution
 2. coastal-population-vs-mismanaged-plastic.csv downloaded from ourworldindata.org/plastic-pollution
 3. plastic-waste-generation-total.csv downloaded from ourworldindata.org/plastic-pollution
 4. plastic-waste-littered.csv downloaded from ourworldindata.org/plastic-pollution
