@@ -10,7 +10,7 @@ GDP is one of the indicators of economic activity and it is considered as "world
 - If more people live in the coastal area, does this country produce a higher amount of mismanaged plastic waste?
 - Which continent manages plastic waste the most inadequately?
 
-The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
+The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb). Moreover, produced world map that shows the share of plastic waste that is inadequately managed in different countries can be seen in [chloropleth_map.html](chloropleth_map.html).
 
 This **loades five datasets**:
 
