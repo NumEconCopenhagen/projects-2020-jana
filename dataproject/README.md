@@ -22,4 +22,4 @@ This **loades five datasets**:
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
-``pip install matplotlib-venn``
+``pip install folium``
